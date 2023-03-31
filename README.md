@@ -1,5 +1,8 @@
-# Html-form-upload-to-google-sheets. Including files
+# Submit Html form upload file to drive, file link to google sheet. 
+Html-form-upload-to-google-sheets. Including files
 This code helps to submit an HTML form and log all the datas (Including Files) to google sheet and get email notification.
+
+This is similar with the work flow to google forms.
 
 # Workflow
 1. While submiting the form, the file is uploaded to a drive folder and the link of the file is logged to out google sheet.
